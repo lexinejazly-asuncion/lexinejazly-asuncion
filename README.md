@@ -1,16 +1,73 @@
-## Hi there 👋
+# Hello!
 
-<!--
-**lexinejazly-asuncion/lexinejazly-asuncion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Lexinejazly! I am a Computer Science student with a strong interest in artificial intelligence, machine learning, and data analytics. I am passionate about using technology to bring innovative solutions to real-world problems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩🏽‍💻 About Me
+
+🎓 I'm currently a junior studying Computer Science at **San José State University**.  
+💜 I’m *especially passionate* about bridging the gap between technology and underrepresented communities by creating learning opportunities and mentorship that empower individuals to thrive and lead in tech.
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+<table>
+  <tr>
+    <td valign="top">
+      <strong> Languages</strong><br><br>
+      • Python<br>
+      • Java<br>
+      • HTML & CSS
+    </td>
+    <td valign="top">
+      <strong> Tools & Technologies</strong><br><br>
+      • Eclipse<br>
+      • IntelliJ IDEA<br>
+      • Git & GitHub<br>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td valign="top">
+      <strong> Certifications</strong><br><br>
+      • Cryptography<br>
+      • Cybersecurity<br>
+      • Web Design<br>
+      • HTML & CSS<br>
+      • JavaScript <br>
+      <small>(Girls Who Code)</small>
+    </td>
+    <td valign="top">
+      <strong> Relevant Coursework</strong><br><br>
+      • Data Structures & Algorithms<br>
+      • Object-Oriented Programming<br>
+      • Operating Systems<br>
+      • Computer Systems<br>
+      • Data Science<br>
+      • Python Programming
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🌟 Highlights
+- **SWE++ Director @ Society of Women Engineers**  
+  Designing curriculum and leading a 10-week Python program teaching 100+ middle school girls.
+  
+- **Consulting Ambassador @ Mozilla**  
+  Managing client relationships and leading consulting projects with nonprofits and organizations.
+
+- **Extern @ IBM Silicon Valley Lab**  
+  Gained hands-on experience with AI models (Granite) and large-scale server operations.
+
+---
+
+## 🤝 I'd love to connect!
+LinkedIn: https://www.linkedin.com/in/lexinejazly-asuncion/
+Email: asuncionlexinejazly@gmail.com
+
