@@ -60,7 +60,7 @@ My name is Lexinejazly! I am a Computer Science student with a strong interest i
   Designing curriculum and leading a 10-week Python program teaching 100+ middle school girls.
   
 - **SDE Intern @ Cadence Design Systems**  
-  Developed a Python Script to automate product documentation for customers, reducing runtime by over 80%
+  Developed a Python Script to automate product documentation for customers, reducing runtime by over 80%.
   
 - **Consulting Ambassador @ Mozilla**  
   Managing client relationships and leading consulting projects with nonprofits and organizations.
